@@ -1,2 +1,2 @@
 # search-delete-employeeData
-Project Digicat
+Project Digicat (Reactjs only)
